@@ -16,7 +16,7 @@ Analisi penggunaan emoji bertujuan untuk menganalisis penggunaan emoji untuk kon
 Analisis yang dilakukan adalah dengan mengecek dataset apakah ada yang memiliki nilai kosong, nilai yang duplikat, dan nilai yang memiliki kesalahan format. Selanjutnya, eksplorasi data dilakukan dengan melakukan visualisasi data untuk mengidentifikasi pola yang menarik dan mendapatkan informasi baru.
 
 ## Hasil
-1. Penggunaan emoji berdasarkan konteks :
+### Penggunaan emoji berdasarkan konteks :
 **context love**
 
 emoji yang digunakan dalam context love adalah :
@@ -96,3 +96,33 @@ emoji yang digunakan dalam context happy adalah :
 
 Lima emoji yang paling sering digunakan dalam context happy
 ![happy 5](./image/1_top5_happy.png)
+
+### Emoji yang digunakan berdasarkan gender pengguna
+berdasarkan hasil analisis, penggunaan emoji berdasarkan gender adalah:
+
+- Emoji yang paling banyak digunakan dalam Perempuan adalah '🎉' dengan 96 kemunculan.
+
+- Emoji yang paling banyak digunakan dalam laki-laki adalah '🤣' dengan 99 kemunculan.
+
+### Emoji yang digunakan laki-laki dan perempuan saat berada di context angry dan love
+
+**penggunaan Angry pada laki-laki**
+
+![angry cwo](./image/2_angry_laki.png)
+
+**penggunaan Angry pada perempuan**
+
+![angry cwe](./image/2_angry_perempuan.png)
+
+**penggunaan Love pada laki-laki**
+
+![love cwo](./image/2_love_laki.png)
+
+**penggunaan love pada perempuan**
+
+![love cwe](./image/2_love_perempuan.png)
+
+### Penggunaan emoji dengan context angry diberbagai platform
+![angry platform](./image/4_angry.png)
+
+![angry paltform2](./image/4_angry_1.png)
