@@ -18,6 +18,7 @@ Analisis yang dilakukan adalah dengan mengecek dataset apakah ada yang memiliki 
 ## Hasil
 1. Penggunaan emoji berdasarkan konteks :
 **context love**
+
 emoji yang digunakan dalam context love adalah :
 ![love](./image/1_love.png)
 
@@ -25,6 +26,7 @@ Lima emoji yang paling sering digunakan dalam context love
 ![love 5](./image/1_top5_love.png)
 
 **context confusion**
+
 emoji yang digunakan dalam context confusion adalah :
 ![confusion](./image/1_confusion.png)
 
@@ -32,6 +34,7 @@ Lima emoji yang paling sering digunakan dalam context confusion
 ![confusion 5](./image/1_top5_confusion.png)
 
 **context love**
+
 emoji yang digunakan dalam context cool adalah :
 ![cool](./image/1_cool.png)
 
